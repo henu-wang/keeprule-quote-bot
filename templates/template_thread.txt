@@ -1,0 +1,21 @@
+"{{quote}}"
+
+-- {{author}}
+
+A thread on {{topic}}:
+
+---THREAD_BREAK---
+
+{{author}} on {{topic}}:
+
+This principle is deceptively simple but incredibly hard to practice consistently. Most investors understand it intellectually but fail to follow it when emotions run high.
+
+The key insight: successful investing is less about intelligence and more about temperament and discipline.
+
+---THREAD_BREAK---
+
+Want to master the investing principles of Buffett, Munger, Graham, and other legendary investors?
+
+Explore the full collection at {{url}}
+
+{{hashtags}}

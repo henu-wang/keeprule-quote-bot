@@ -1,0 +1,7 @@
+"{{quote}}"
+
+-- {{author}}
+
+{{hashtags}}
+
+{{cta}}

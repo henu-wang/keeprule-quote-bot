@@ -1,0 +1,10 @@
+"{{quote}}"
+
+-- {{author}} on {{topic}}
+
+This timeless principle has guided generations of investors. {{author}} built extraordinary wealth by following simple but powerful rules like this one.
+
+{{hashtags}}
+
+Discover more investing wisdom from legendary investors:
+{{url}}
